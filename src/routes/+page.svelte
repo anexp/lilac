@@ -1,5 +1,6 @@
 <script>
 import Cartoon from "../components/cartoon.svelte";
+import Notes from "../components/notes.svelte";
 </script>
 
 <h1>Welcome to SvelteKit</h1>
@@ -7,3 +8,4 @@ import Cartoon from "../components/cartoon.svelte";
 <p>Hello</p>
 
 <Cartoon />
+<Notes />
